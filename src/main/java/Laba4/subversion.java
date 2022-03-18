@@ -53,8 +53,8 @@ public class subversion {
 					info.setInfoToLabels(file.getlines());
 				}
 			}
-			
 		});
+		
 		
 		Image logo = new Image(); 
 		ActionListener logo_image = new ListenerLogo(main_GUI,main_panel,logo);
