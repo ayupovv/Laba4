@@ -37,7 +37,7 @@ public class subversion {
 		JMenuItem menu1 = new JMenuItem("Отобразить логотип УГАТУ");
 		JMenuItem menu2 = new JMenuItem("Отсортировать данные в проекте1");
 		JMenuItem menu3 = new JMenuItem("Выход");
-		JMenuItem menu4 = new JMenuItem("Загрузить файл в проект1");
+		JMenuItem menu4 = new JMenuItem("Загрузить файл в ПРОЕКТ");
 		menuMain.add(menu1);
 		menuMain.add(menu2);
 		menuMain.add(menu4);
