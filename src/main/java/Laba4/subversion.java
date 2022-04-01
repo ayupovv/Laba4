@@ -3,7 +3,7 @@ package Laba4;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener; //���������� ��� ������� ���������
 import javax.swing.*; // ���������� ��� GUI (��������� �� ������ awt)
-
+//комментарий
 public class subversion {
 	public subversion() {
 		JFrame main_GUI = new JFrame("subversion");	
